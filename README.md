@@ -1,6 +1,6 @@
-# Blade Store V4
+# Blade Store 
 
-Blade Store V4 is a lightweight Node.js-based digital store system featuring an admin panel, product/pricing control, promo codes, and JSON-file storage.  
+Blade Store is a lightweight Node.js-based digital store system featuring an admin panel, product/pricing control, promo codes, and JSON-file storage.  
 It is fully responsive and works on all devices — mobile, tablet, and desktop.  
 Designed for easy self-hosting without any external database.
 
@@ -37,7 +37,7 @@ Designed for easy self-hosting without any external database.
 ## 📂 Project Structure
 
 ```
-Blade_StoreV4/
+Blade_Store/
 │
 ├── server.js                # Node.js backend server
 ├── package.json             # Dependencies
